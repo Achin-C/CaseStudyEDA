@@ -1,2 +1,3 @@
-# CaseStudyEDA
-EDA Case Study 1
+# *CaseStudyEDA*
+
+This is our first EDA case study project.
